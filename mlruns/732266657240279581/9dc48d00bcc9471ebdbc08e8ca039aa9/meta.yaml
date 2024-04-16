@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/9dc48d00bcc9471ebdbc08e8ca039aa9/artifacts
+end_time: 1713179901422
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: 9dc48d00bcc9471ebdbc08e8ca039aa9
+run_name: delightful-smelt-16
+run_uuid: 9dc48d00bcc9471ebdbc08e8ca039aa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179766157
+status: 3
+tags: []
+user_id: hp

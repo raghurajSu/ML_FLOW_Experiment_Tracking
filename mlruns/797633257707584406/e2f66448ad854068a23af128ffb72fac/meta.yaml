@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/e2f66448ad854068a23af128ffb72fac/artifacts
+end_time: 1713191646198
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: e2f66448ad854068a23af128ffb72fac
+run_name: fortunate-horse-20
+run_uuid: e2f66448ad854068a23af128ffb72fac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191416158
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/dfba736f157048e893f3a13a2d11c6f6/artifacts
+end_time: 1713191179464
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: dfba736f157048e893f3a13a2d11c6f6
+run_name: merciful-tern-888
+run_uuid: dfba736f157048e893f3a13a2d11c6f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191003437
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/b4327ee1870c4fd48607512ad00f3adb/artifacts
+end_time: 1713180112633
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: b4327ee1870c4fd48607512ad00f3adb
+run_name: serious-frog-183
+run_uuid: b4327ee1870c4fd48607512ad00f3adb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179912332
+status: 3
+tags: []
+user_id: hp

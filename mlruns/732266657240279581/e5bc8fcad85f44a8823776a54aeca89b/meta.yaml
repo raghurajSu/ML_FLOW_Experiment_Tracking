@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/e5bc8fcad85f44a8823776a54aeca89b/artifacts
+end_time: 1713180112633
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: e5bc8fcad85f44a8823776a54aeca89b
+run_name: intrigued-ape-791
+run_uuid: e5bc8fcad85f44a8823776a54aeca89b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179912332
+status: 3
+tags: []
+user_id: hp

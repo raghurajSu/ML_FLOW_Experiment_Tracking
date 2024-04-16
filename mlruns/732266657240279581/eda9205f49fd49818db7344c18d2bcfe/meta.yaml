@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/eda9205f49fd49818db7344c18d2bcfe/artifacts
+end_time: 1713180112633
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: eda9205f49fd49818db7344c18d2bcfe
+run_name: peaceful-rat-93
+run_uuid: eda9205f49fd49818db7344c18d2bcfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179912332
+status: 3
+tags: []
+user_id: hp

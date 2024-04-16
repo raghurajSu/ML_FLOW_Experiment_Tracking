@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/f033f119c7654e529f20f1abb6141b82/artifacts
+end_time: 1713179901422
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: f033f119c7654e529f20f1abb6141b82
+run_name: angry-dolphin-249
+run_uuid: f033f119c7654e529f20f1abb6141b82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179766157
+status: 3
+tags: []
+user_id: hp

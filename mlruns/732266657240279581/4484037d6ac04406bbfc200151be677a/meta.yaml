@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/4484037d6ac04406bbfc200151be677a/artifacts
+end_time: 1713179666553
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: 4484037d6ac04406bbfc200151be677a
+run_name: Knn_run
+run_uuid: 4484037d6ac04406bbfc200151be677a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179655157
+status: 3
+tags: []
+user_id: hp

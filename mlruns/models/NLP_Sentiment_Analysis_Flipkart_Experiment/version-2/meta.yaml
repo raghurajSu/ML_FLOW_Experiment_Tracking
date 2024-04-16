@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713181407095
+current_stage: None
+description: ''
+last_updated_timestamp: 1713181407095
+name: NLP_Sentiment_Analysis_Flipkart_Experiment
+run_id: cc3939162d314d70872f871552e9c3bc
+run_link: ''
+source: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/cc3939162d314d70872f871552e9c3bc/artifacts/decision_tree_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/cc3939162d314d70872f871552e9c3bc/artifacts/decision_tree_model
+user_id: null
+version: 2

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/70f50d7e519d4ae3b5da6f0415d4d05c/artifacts
+end_time: 1713179607727
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: 70f50d7e519d4ae3b5da6f0415d4d05c
+run_name: big-hen-559
+run_uuid: 70f50d7e519d4ae3b5da6f0415d4d05c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179456412
+status: 3
+tags: []
+user_id: hp

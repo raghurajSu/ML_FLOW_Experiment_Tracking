@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/2e4595f0788642349004995e4f130076/artifacts
+end_time: 1713191646198
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: 2e4595f0788642349004995e4f130076
+run_name: bouncy-stork-30
+run_uuid: 2e4595f0788642349004995e4f130076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191416158
+status: 3
+tags: []
+user_id: hp

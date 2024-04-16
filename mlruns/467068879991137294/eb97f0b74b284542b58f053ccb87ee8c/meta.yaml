@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/eb97f0b74b284542b58f053ccb87ee8c/artifacts
+end_time: 1713179418597
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: eb97f0b74b284542b58f053ccb87ee8c
+run_name: caring-hawk-145
+run_uuid: eb97f0b74b284542b58f053ccb87ee8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179110836
+status: 3
+tags: []
+user_id: hp

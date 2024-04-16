@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/1e103fbb15db4d098038ce8a49e2402d/artifacts
+end_time: 1713191646198
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: 1e103fbb15db4d098038ce8a49e2402d
+run_name: delicate-colt-98
+run_uuid: 1e103fbb15db4d098038ce8a49e2402d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191416158
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/85079329393747bc92311effa0ae2efd/artifacts
+end_time: 1713179756411
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: 85079329393747bc92311effa0ae2efd
+run_name: thundering-croc-147
+run_uuid: 85079329393747bc92311effa0ae2efd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179685261
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/60bdaff0a5764bf5a4aa93295b213714/artifacts
+end_time: 1713190948720
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: 60bdaff0a5764bf5a4aa93295b213714
+run_name: powerful-auk-235
+run_uuid: 60bdaff0a5764bf5a4aa93295b213714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713190455537
+status: 3
+tags: []
+user_id: hp

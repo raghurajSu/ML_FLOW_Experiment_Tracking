@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/6d53d4a04d1b444fb37fad2cfed20a57/artifacts
+end_time: 1713180112633
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: 6d53d4a04d1b444fb37fad2cfed20a57
+run_name: delicate-koi-242
+run_uuid: 6d53d4a04d1b444fb37fad2cfed20a57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179912332
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/1b3d143a6195404997d892082ec2b997/artifacts
+end_time: 1713179636110
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: 1b3d143a6195404997d892082ec2b997
+run_name: worried-mink-833
+run_uuid: 1b3d143a6195404997d892082ec2b997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179627458
+status: 3
+tags: []
+user_id: hp

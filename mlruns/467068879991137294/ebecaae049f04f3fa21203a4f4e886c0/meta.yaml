@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/ebecaae049f04f3fa21203a4f4e886c0/artifacts
+end_time: 1713179418597
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: ebecaae049f04f3fa21203a4f4e886c0
+run_name: entertaining-fox-324
+run_uuid: ebecaae049f04f3fa21203a4f4e886c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179110836
+status: 3
+tags: []
+user_id: hp

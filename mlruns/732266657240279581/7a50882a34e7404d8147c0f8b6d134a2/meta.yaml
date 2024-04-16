@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/7a50882a34e7404d8147c0f8b6d134a2/artifacts
+end_time: 1713180112633
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: 7a50882a34e7404d8147c0f8b6d134a2
+run_name: wistful-shoat-326
+run_uuid: 7a50882a34e7404d8147c0f8b6d134a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179912332
+status: 3
+tags: []
+user_id: hp

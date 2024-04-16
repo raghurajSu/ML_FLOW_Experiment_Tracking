@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/d4b00a119b1d42c3940e36667acbfdfd/artifacts
+end_time: 1713191323491
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: d4b00a119b1d42c3940e36667acbfdfd
+run_name: welcoming-hog-185
+run_uuid: d4b00a119b1d42c3940e36667acbfdfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191273670
+status: 3
+tags: []
+user_id: hp

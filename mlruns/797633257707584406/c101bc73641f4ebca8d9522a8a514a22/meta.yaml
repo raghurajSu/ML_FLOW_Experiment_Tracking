@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/c101bc73641f4ebca8d9522a8a514a22/artifacts
+end_time: 1713191323491
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: c101bc73641f4ebca8d9522a8a514a22
+run_name: monumental-owl-376
+run_uuid: c101bc73641f4ebca8d9522a8a514a22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191273670
+status: 3
+tags: []
+user_id: hp

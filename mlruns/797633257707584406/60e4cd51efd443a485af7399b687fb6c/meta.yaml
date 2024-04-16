@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/60e4cd51efd443a485af7399b687fb6c/artifacts
+end_time: 1713181074662
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: 60e4cd51efd443a485af7399b687fb6c
+run_name: fortunate-auk-100
+run_uuid: 60e4cd51efd443a485af7399b687fb6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713180831742
+status: 3
+tags: []
+user_id: hp

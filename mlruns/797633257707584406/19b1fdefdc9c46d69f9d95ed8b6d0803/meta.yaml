@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/19b1fdefdc9c46d69f9d95ed8b6d0803/artifacts
+end_time: 1713180819576
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: 19b1fdefdc9c46d69f9d95ed8b6d0803
+run_name: respected-wren-219
+run_uuid: 19b1fdefdc9c46d69f9d95ed8b6d0803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713180746180
+status: 3
+tags: []
+user_id: hp

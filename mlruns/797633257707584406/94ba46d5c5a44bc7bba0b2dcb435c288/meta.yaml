@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/94ba46d5c5a44bc7bba0b2dcb435c288/artifacts
+end_time: 1713191646198
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: 94ba46d5c5a44bc7bba0b2dcb435c288
+run_name: secretive-ox-992
+run_uuid: 94ba46d5c5a44bc7bba0b2dcb435c288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191416158
+status: 3
+tags: []
+user_id: hp

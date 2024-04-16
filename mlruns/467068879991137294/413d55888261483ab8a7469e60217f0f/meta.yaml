@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/413d55888261483ab8a7469e60217f0f/artifacts
+end_time: 1713179418597
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: 413d55888261483ab8a7469e60217f0f
+run_name: redolent-bear-784
+run_uuid: 413d55888261483ab8a7469e60217f0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179110836
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/9af1dd11dc3f4e3085ded91683b5efed/artifacts
+end_time: 1713191646198
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: 9af1dd11dc3f4e3085ded91683b5efed
+run_name: learned-snail-622
+run_uuid: 9af1dd11dc3f4e3085ded91683b5efed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191416158
+status: 3
+tags: []
+user_id: hp

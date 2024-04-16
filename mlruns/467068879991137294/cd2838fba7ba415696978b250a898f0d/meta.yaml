@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/cd2838fba7ba415696978b250a898f0d/artifacts
+end_time: 1713179418597
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: cd2838fba7ba415696978b250a898f0d
+run_name: righteous-snail-385
+run_uuid: cd2838fba7ba415696978b250a898f0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179110836
+status: 3
+tags: []
+user_id: hp

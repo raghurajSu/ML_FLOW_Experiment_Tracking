@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/598eb39fa1dc419f92d175ca99d46945/artifacts
+end_time: 1713190948720
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: 598eb39fa1dc419f92d175ca99d46945
+run_name: colorful-crane-814
+run_uuid: 598eb39fa1dc419f92d175ca99d46945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713190455537
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/b779b84819fe4e6bafbcc4c1e8cb1483/artifacts
+end_time: 1713180112633
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: b779b84819fe4e6bafbcc4c1e8cb1483
+run_name: abundant-donkey-138
+run_uuid: b779b84819fe4e6bafbcc4c1e8cb1483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179912332
+status: 3
+tags: []
+user_id: hp

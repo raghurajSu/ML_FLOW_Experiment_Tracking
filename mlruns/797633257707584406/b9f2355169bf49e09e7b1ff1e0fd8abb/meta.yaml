@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/b9f2355169bf49e09e7b1ff1e0fd8abb/artifacts
+end_time: 1713191646198
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: b9f2355169bf49e09e7b1ff1e0fd8abb
+run_name: defiant-dog-981
+run_uuid: b9f2355169bf49e09e7b1ff1e0fd8abb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191416158
+status: 3
+tags: []
+user_id: hp

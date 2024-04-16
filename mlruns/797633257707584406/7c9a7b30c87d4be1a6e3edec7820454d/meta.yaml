@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/7c9a7b30c87d4be1a6e3edec7820454d/artifacts
+end_time: 1713191646198
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: 7c9a7b30c87d4be1a6e3edec7820454d
+run_name: overjoyed-perch-434
+run_uuid: 7c9a7b30c87d4be1a6e3edec7820454d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191416158
+status: 3
+tags: []
+user_id: hp

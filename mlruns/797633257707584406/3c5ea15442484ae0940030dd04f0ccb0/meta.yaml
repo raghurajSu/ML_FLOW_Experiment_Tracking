@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/3c5ea15442484ae0940030dd04f0ccb0/artifacts
+end_time: 1713181074662
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: 3c5ea15442484ae0940030dd04f0ccb0
+run_name: blushing-newt-47
+run_uuid: 3c5ea15442484ae0940030dd04f0ccb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713180831742
+status: 3
+tags: []
+user_id: hp

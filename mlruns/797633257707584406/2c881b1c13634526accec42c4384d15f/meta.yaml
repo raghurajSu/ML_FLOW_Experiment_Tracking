@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/2c881b1c13634526accec42c4384d15f/artifacts
+end_time: 1713181074662
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: 2c881b1c13634526accec42c4384d15f
+run_name: crawling-foal-972
+run_uuid: 2c881b1c13634526accec42c4384d15f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713180831742
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/325847a2b4824b5bb0991ca9d423606f/artifacts
+end_time: 1713179901422
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: 325847a2b4824b5bb0991ca9d423606f
+run_name: rebellious-hawk-925
+run_uuid: 325847a2b4824b5bb0991ca9d423606f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179766157
+status: 3
+tags: []
+user_id: hp

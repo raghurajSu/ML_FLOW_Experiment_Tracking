@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/6280f22c81bf464eb13e85ca4163ff0f/artifacts
+end_time: 1713179418597
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: 6280f22c81bf464eb13e85ca4163ff0f
+run_name: crawling-fish-235
+run_uuid: 6280f22c81bf464eb13e85ca4163ff0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179110836
+status: 3
+tags: []
+user_id: hp

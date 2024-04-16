@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/3b271bd0e6df4eba92e4450991586310/artifacts
+end_time: 1713179901422
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: 3b271bd0e6df4eba92e4450991586310
+run_name: resilient-crab-207
+run_uuid: 3b271bd0e6df4eba92e4450991586310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179766157
+status: 3
+tags: []
+user_id: hp

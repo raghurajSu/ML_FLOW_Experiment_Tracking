@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/7876b4ea9b734f3d85d6b41ebfa4c1ca/artifacts
+end_time: 1713179418597
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: 7876b4ea9b734f3d85d6b41ebfa4c1ca
+run_name: painted-squid-635
+run_uuid: 7876b4ea9b734f3d85d6b41ebfa4c1ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179110836
+status: 3
+tags: []
+user_id: hp

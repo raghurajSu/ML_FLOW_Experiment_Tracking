@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/b25938f3a757406e96cfac84bb960537/artifacts
+end_time: 1713179607727
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: b25938f3a757406e96cfac84bb960537
+run_name: dashing-bear-818
+run_uuid: b25938f3a757406e96cfac84bb960537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179456412
+status: 3
+tags: []
+user_id: hp

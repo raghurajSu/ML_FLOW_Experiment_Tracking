@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/9c65af9776a544febe44d1cf1388b1dd/artifacts
+end_time: 1713179901422
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: 9c65af9776a544febe44d1cf1388b1dd
+run_name: able-bat-663
+run_uuid: 9c65af9776a544febe44d1cf1388b1dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179766157
+status: 3
+tags: []
+user_id: hp

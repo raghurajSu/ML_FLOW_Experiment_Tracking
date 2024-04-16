@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/087265e891d0492db49274705f33b429/artifacts
+end_time: 1713180819576
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: 087265e891d0492db49274705f33b429
+run_name: able-sow-30
+run_uuid: 087265e891d0492db49274705f33b429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713180746180
+status: 3
+tags: []
+user_id: hp

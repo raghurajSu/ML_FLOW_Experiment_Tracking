@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/f540423d09e64c2f8d6258ff6023bd77/artifacts
+end_time: 1713191646198
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: f540423d09e64c2f8d6258ff6023bd77
+run_name: bittersweet-auk-103
+run_uuid: f540423d09e64c2f8d6258ff6023bd77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191416158
+status: 3
+tags: []
+user_id: hp

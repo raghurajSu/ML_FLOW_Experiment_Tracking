@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/ad98cbba7fc342d2a6419c9e9a46b89e/artifacts
+end_time: 1713191646198
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: ad98cbba7fc342d2a6419c9e9a46b89e
+run_name: luxuriant-lynx-855
+run_uuid: ad98cbba7fc342d2a6419c9e9a46b89e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191416158
+status: 3
+tags: []
+user_id: hp

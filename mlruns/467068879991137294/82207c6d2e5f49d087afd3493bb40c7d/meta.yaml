@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/82207c6d2e5f49d087afd3493bb40c7d/artifacts
+end_time: 1713190948720
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: 82207c6d2e5f49d087afd3493bb40c7d
+run_name: redolent-croc-353
+run_uuid: 82207c6d2e5f49d087afd3493bb40c7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713190455537
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/99740e751dea46cdb3b2e6ad7ffccb25/artifacts
+end_time: 1713181074662
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: 99740e751dea46cdb3b2e6ad7ffccb25
+run_name: incongruous-pig-313
+run_uuid: 99740e751dea46cdb3b2e6ad7ffccb25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713180831742
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/f096ea41abe14b53bf6bcd2bdd34433c/artifacts
+end_time: 1713181074662
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: f096ea41abe14b53bf6bcd2bdd34433c
+run_name: fortunate-pig-84
+run_uuid: f096ea41abe14b53bf6bcd2bdd34433c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713180831742
+status: 3
+tags: []
+user_id: hp

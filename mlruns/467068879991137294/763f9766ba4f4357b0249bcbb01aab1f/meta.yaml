@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/763f9766ba4f4357b0249bcbb01aab1f/artifacts
+end_time: 1713190948720
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: 763f9766ba4f4357b0249bcbb01aab1f
+run_name: useful-robin-26
+run_uuid: 763f9766ba4f4357b0249bcbb01aab1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713190455537
+status: 3
+tags: []
+user_id: hp

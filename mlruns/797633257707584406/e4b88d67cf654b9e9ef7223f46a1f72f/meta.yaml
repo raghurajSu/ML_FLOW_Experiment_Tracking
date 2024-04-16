@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/e4b88d67cf654b9e9ef7223f46a1f72f/artifacts
+end_time: 1713191414657
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: e4b88d67cf654b9e9ef7223f46a1f72f
+run_name: sincere-skink-945
+run_uuid: e4b88d67cf654b9e9ef7223f46a1f72f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191333076
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/da1d8534d4a840dc907026d8f693db2c/artifacts
+end_time: 1713179901422
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: da1d8534d4a840dc907026d8f693db2c
+run_name: indecisive-slug-504
+run_uuid: da1d8534d4a840dc907026d8f693db2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179766157
+status: 3
+tags: []
+user_id: hp

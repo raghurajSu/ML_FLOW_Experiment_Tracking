@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/d5a68207c5ea49ecbff9b5c64c9923fc/artifacts
+end_time: 1713190948720
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: d5a68207c5ea49ecbff9b5c64c9923fc
+run_name: nervous-hawk-743
+run_uuid: d5a68207c5ea49ecbff9b5c64c9923fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713190455537
+status: 3
+tags: []
+user_id: hp

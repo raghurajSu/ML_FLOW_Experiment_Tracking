@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/b85ffbf29e9c4496b844f9b8cbc1f32d/artifacts
+end_time: 1713190948720
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: b85ffbf29e9c4496b844f9b8cbc1f32d
+run_name: bold-mare-187
+run_uuid: b85ffbf29e9c4496b844f9b8cbc1f32d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713190455537
+status: 3
+tags: []
+user_id: hp

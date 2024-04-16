@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/af21ac5e92ed47e7b0eb09ef9ad47a95/artifacts
+end_time: 1713179418597
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: af21ac5e92ed47e7b0eb09ef9ad47a95
+run_name: powerful-lark-282
+run_uuid: af21ac5e92ed47e7b0eb09ef9ad47a95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179110836
+status: 3
+tags: []
+user_id: hp

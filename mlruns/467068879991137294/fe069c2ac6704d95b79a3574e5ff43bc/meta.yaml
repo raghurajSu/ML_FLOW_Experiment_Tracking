@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/fe069c2ac6704d95b79a3574e5ff43bc/artifacts
+end_time: 1713191179464
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: fe069c2ac6704d95b79a3574e5ff43bc
+run_name: zealous-sheep-59
+run_uuid: fe069c2ac6704d95b79a3574e5ff43bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191003437
+status: 3
+tags: []
+user_id: hp

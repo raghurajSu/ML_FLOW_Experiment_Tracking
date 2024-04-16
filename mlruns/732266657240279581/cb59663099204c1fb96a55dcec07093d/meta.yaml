@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/cb59663099204c1fb96a55dcec07093d/artifacts
+end_time: 1713180188435
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: cb59663099204c1fb96a55dcec07093d
+run_name: polite-boar-81
+run_uuid: cb59663099204c1fb96a55dcec07093d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713180166582
+status: 3
+tags: []
+user_id: hp

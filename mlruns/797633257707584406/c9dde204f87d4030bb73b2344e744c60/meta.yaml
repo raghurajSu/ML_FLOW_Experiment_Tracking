@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/c9dde204f87d4030bb73b2344e744c60/artifacts
+end_time: 1713180819576
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: c9dde204f87d4030bb73b2344e744c60
+run_name: glamorous-bear-955
+run_uuid: c9dde204f87d4030bb73b2344e744c60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713180746180
+status: 3
+tags: []
+user_id: hp

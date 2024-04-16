@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/4f34a34573b4454f87b06ee562df4fbe/artifacts
+end_time: 1713179607727
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: 4f34a34573b4454f87b06ee562df4fbe
+run_name: bright-sponge-969
+run_uuid: 4f34a34573b4454f87b06ee562df4fbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179456412
+status: 3
+tags: []
+user_id: hp

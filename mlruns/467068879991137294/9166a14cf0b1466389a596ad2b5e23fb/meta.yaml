@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/9166a14cf0b1466389a596ad2b5e23fb/artifacts
+end_time: 1713179607727
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: 9166a14cf0b1466389a596ad2b5e23fb
+run_name: thoughtful-quail-879
+run_uuid: 9166a14cf0b1466389a596ad2b5e23fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179456412
+status: 3
+tags: []
+user_id: hp

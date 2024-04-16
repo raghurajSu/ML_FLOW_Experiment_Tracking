@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/c875a088a44241468c86654e3a169057/artifacts
+end_time: 1713191401675
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: c875a088a44241468c86654e3a169057
+run_name: rebellious-snake-461
+run_uuid: c875a088a44241468c86654e3a169057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191333076
+status: 3
+tags: []
+user_id: hp

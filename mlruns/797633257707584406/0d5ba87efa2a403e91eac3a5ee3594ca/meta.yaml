@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/0d5ba87efa2a403e91eac3a5ee3594ca/artifacts
+end_time: 1713191401675
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: 0d5ba87efa2a403e91eac3a5ee3594ca
+run_name: fortunate-conch-920
+run_uuid: 0d5ba87efa2a403e91eac3a5ee3594ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191333076
+status: 3
+tags: []
+user_id: hp

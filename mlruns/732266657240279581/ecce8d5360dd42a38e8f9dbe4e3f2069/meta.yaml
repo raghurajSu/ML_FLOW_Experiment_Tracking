@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/ecce8d5360dd42a38e8f9dbe4e3f2069/artifacts
+end_time: 1713179756411
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: ecce8d5360dd42a38e8f9dbe4e3f2069
+run_name: sophisticated-ox-445
+run_uuid: ecce8d5360dd42a38e8f9dbe4e3f2069
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179685261
+status: 3
+tags: []
+user_id: hp

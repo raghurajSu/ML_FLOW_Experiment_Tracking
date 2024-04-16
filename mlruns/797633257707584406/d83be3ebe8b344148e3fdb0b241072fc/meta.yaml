@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/d83be3ebe8b344148e3fdb0b241072fc/artifacts
+end_time: 1713191401675
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: d83be3ebe8b344148e3fdb0b241072fc
+run_name: defiant-deer-95
+run_uuid: d83be3ebe8b344148e3fdb0b241072fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191333076
+status: 3
+tags: []
+user_id: hp

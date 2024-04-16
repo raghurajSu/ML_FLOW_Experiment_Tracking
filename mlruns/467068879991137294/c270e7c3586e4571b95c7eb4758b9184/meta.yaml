@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/c270e7c3586e4571b95c7eb4758b9184/artifacts
+end_time: 1713190948720
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: c270e7c3586e4571b95c7eb4758b9184
+run_name: redolent-robin-795
+run_uuid: c270e7c3586e4571b95c7eb4758b9184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713190455537
+status: 3
+tags: []
+user_id: hp

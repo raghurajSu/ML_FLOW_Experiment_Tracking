@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/a8bdfa9e9deb4b00b78aa3cee34bdaee/artifacts
+end_time: 1713190948720
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: a8bdfa9e9deb4b00b78aa3cee34bdaee
+run_name: bright-steed-325
+run_uuid: a8bdfa9e9deb4b00b78aa3cee34bdaee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713190455537
+status: 3
+tags: []
+user_id: hp

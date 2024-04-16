@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/94ea7ec9825b47db9691ee6f6fffbafa/artifacts
+end_time: 1713191646198
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: 94ea7ec9825b47db9691ee6f6fffbafa
+run_name: traveling-elk-272
+run_uuid: 94ea7ec9825b47db9691ee6f6fffbafa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191416158
+status: 3
+tags: []
+user_id: hp

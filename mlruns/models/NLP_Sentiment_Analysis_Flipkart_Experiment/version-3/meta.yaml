@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713181469750
+current_stage: None
+description: ''
+last_updated_timestamp: 1713181469750
+name: NLP_Sentiment_Analysis_Flipkart_Experiment
+run_id: 895525946cb24330acee9472475c357d
+run_link: ''
+source: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/895525946cb24330acee9472475c357d/artifacts/logistic_regression_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/895525946cb24330acee9472475c357d/artifacts/logistic_regression_model
+user_id: null
+version: 3

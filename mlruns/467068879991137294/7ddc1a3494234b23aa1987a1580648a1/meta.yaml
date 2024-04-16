@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/7ddc1a3494234b23aa1987a1580648a1/artifacts
+end_time: 1713179607727
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: 7ddc1a3494234b23aa1987a1580648a1
+run_name: bemused-hawk-308
+run_uuid: 7ddc1a3494234b23aa1987a1580648a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179456412
+status: 3
+tags: []
+user_id: hp

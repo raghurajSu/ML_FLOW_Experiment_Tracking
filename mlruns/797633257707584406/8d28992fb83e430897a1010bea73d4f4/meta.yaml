@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/8d28992fb83e430897a1010bea73d4f4/artifacts
+end_time: 1713180819576
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: 8d28992fb83e430897a1010bea73d4f4
+run_name: whimsical-steed-429
+run_uuid: 8d28992fb83e430897a1010bea73d4f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713180746180
+status: 3
+tags: []
+user_id: hp

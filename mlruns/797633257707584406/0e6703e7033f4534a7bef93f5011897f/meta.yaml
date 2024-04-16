@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/0e6703e7033f4534a7bef93f5011897f/artifacts
+end_time: 1713180741331
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: 0e6703e7033f4534a7bef93f5011897f
+run_name: funny-moth-893
+run_uuid: 0e6703e7033f4534a7bef93f5011897f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713180679492
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/b4e8a4c580ea46f5b91847ce095aea97/artifacts
+end_time: 1713191646198
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: b4e8a4c580ea46f5b91847ce095aea97
+run_name: chill-newt-164
+run_uuid: b4e8a4c580ea46f5b91847ce095aea97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191416158
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/467068879991137294/8c5a07a709fa43fe99f1abd7504b745f/artifacts
+end_time: 1713179418597
+entry_point_name: ''
+experiment_id: '467068879991137294'
+lifecycle_stage: active
+run_id: 8c5a07a709fa43fe99f1abd7504b745f
+run_name: mysterious-chimp-787
+run_uuid: 8c5a07a709fa43fe99f1abd7504b745f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179110836
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/1fa0e3b3c73a4ae999419c491074823c/artifacts
+end_time: 1713181074662
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: 1fa0e3b3c73a4ae999419c491074823c
+run_name: thoughtful-kite-979
+run_uuid: 1fa0e3b3c73a4ae999419c491074823c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713180831742
+status: 3
+tags: []
+user_id: hp

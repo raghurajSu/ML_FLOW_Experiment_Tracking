@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/c9489b86d62d46ba8aed312ef256a48c/artifacts
+end_time: 1713180245126
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: c9489b86d62d46ba8aed312ef256a48c
+run_name: learned-squirrel-613
+run_uuid: c9489b86d62d46ba8aed312ef256a48c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713180229564
+status: 3
+tags: []
+user_id: hp

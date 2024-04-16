@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/732266657240279581/741b7da5419e47f69b2d3125360fc10b/artifacts
+end_time: 1713179901422
+entry_point_name: ''
+experiment_id: '732266657240279581'
+lifecycle_stage: active
+run_id: 741b7da5419e47f69b2d3125360fc10b
+run_name: intelligent-hen-828
+run_uuid: 741b7da5419e47f69b2d3125360fc10b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179766157
+status: 3
+tags: []
+user_id: hp

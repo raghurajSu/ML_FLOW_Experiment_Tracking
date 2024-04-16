@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/fac6ae3c48a545b3a9cdccd1ef71ed23/artifacts
+end_time: 1713180819576
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: fac6ae3c48a545b3a9cdccd1ef71ed23
+run_name: loud-panda-623
+run_uuid: fac6ae3c48a545b3a9cdccd1ef71ed23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713180746180
+status: 3
+tags: []
+user_id: hp

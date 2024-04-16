@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/8a54128b09a64c24a5df172f22f8f583/artifacts
+end_time: 1713181074662
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: 8a54128b09a64c24a5df172f22f8f583
+run_name: awesome-dove-670
+run_uuid: 8a54128b09a64c24a5df172f22f8f583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713180831742
+status: 3
+tags: []
+user_id: hp

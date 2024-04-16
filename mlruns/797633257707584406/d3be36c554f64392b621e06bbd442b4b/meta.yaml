@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/ML_FLOW_Experiment_Tracking/mlruns/797633257707584406/d3be36c554f64392b621e06bbd442b4b/artifacts
+end_time: 1713180819576
+entry_point_name: ''
+experiment_id: '797633257707584406'
+lifecycle_stage: active
+run_id: d3be36c554f64392b621e06bbd442b4b
+run_name: defiant-hog-305
+run_uuid: d3be36c554f64392b621e06bbd442b4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713180746180
+status: 3
+tags: []
+user_id: hp
